@@ -189,6 +189,7 @@ if (module.hot) {
 ```
 
 ```js
+// ./src/components/App.js
 import React from 'react';
 import styles from './App.css';
 
